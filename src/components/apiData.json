@@ -1,0 +1,264 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "CNBC",
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Bitcoin jumps above $18,000 to highest level in a month, as FTX lawyers recover $5 billion - CNBC",
+      "description": "The world's largest digital currency climbed above $18,000 for the first time since Dec. 14, increasing in value by about 5% in the last 24 hours.",
+      "url": "https://www.cnbc.com/2023/01/12/bitcoin-jumps-above-18000-to-highest-level-in-a-month.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107164807-1670871271402-gettyimages-1303634450-bitcoin_05.jpeg?v=1673513871&w=1920&h=1080",
+      "publishedAt": "2023-01-12T08:57:51Z",
+      "content": "Bitcoin on Thursday surged to its highest price in nearly a month, as traders bet on a U.S. inflation cooldown and digested news that lawyers for defunct crypto exchange FTX found billions of dollars… [+3894 chars]"
+    },
+    {
+      "source": {
+        "id": "Fox Business",
+        "name": "Fox Business"
+      },
+      "author": "Megan Henney",
+      "title": "December inflation report likely to show prices eased further but remain high - Fox Business",
+      "description": "The consumer price index likely surged again in November as inflation remains near a 40-year high, continuing to inflict financial pain on millions of Americans.",
+      "url": "https://www.foxbusiness.com/economy/december-inflation-report-likely-show-prices-eased-further-remain-high",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/grocery-shopping-2.jpg?ve=1&tl=1",
+      "publishedAt": "2023-01-12T07:04:32Z",
+      "content": "A high-stakes inflation report due Thursday is expected to show that price gains slowed further in December thanks to a decline in gas and energy costs, but still remain historically high. \r\nEconomis… [+3624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Jack Denton, Emily Dattilo",
+      "title": "Stocks Gain as Wall Street Bets on Good Inflation Report - Barron's",
+      "description": "Barron's live coverage of financial markets, from stocks and bonds to oil and crypto.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-today-011123/card/stocks-edge-higher-as-investors-await-inflation-data-YPMFidY44E4CTdgnNuCs",
+      "urlToImage": "https://images.barrons.com/im-700521/social",
+      "publishedAt": "2023-01-12T06:23:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "George Russell",
+      "title": "Live updates: Bed Bath & Beyond shares notch record jump of 69% - Financial Times",
+      "description": "",
+      "url": "https://www.ft.com/content/bb5b1f91-c96d-4d23-8c3a-7ce6145d8ce7",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3c0c8a9e-55a9-4b4b-bd4a-1f9bdcabb914.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2023-01-12T03:00:06Z",
+      "content": "Members of the East Turkestan Government-in-Exile, a Xinjiang activist group, rally in Washington last November © Chip Somodevilla/Getty Images\r\nRepression deepened across China in 2022 despite risin… [+1309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Jesse Coghlan",
+      "title": "Bitcoin surges above $18K to cap 8-day winning streak - Cointelegraph",
+      "description": "Over the last seven days, the price of Bitcoin (BTC) has increased nearly 8%, booking eight straight days of gains unseen since 2021.",
+      "url": "https://cointelegraph.com/news/let-s-go-bitcoin-surges-above-18k-to-cap-8-day-winning-streak",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/f88e41ad-fef9-4f54-9f58-0d5f65bb4019.jpg",
+      "publishedAt": "2023-01-12T02:03:08Z",
+      "content": "Bitcoin (BTC) has clocked eight straight days of increasing prices and has surged back above $18,000 for the first time since mid-December.\r\nThe cryptocurrency hadnt recorded such a prolonged winning… [+2609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Luke Huigsloot",
+      "title": "El Salvador passes landmark crypto bill, paving way for Bitcoin-backed bonds - Cointelegraph",
+      "description": "The El Salvador legislature has passed a landmark bill which will allow it to issue Bitcoin-backed bonds, or Volcano Bonds, in addition to establishing a new regulatory body and legal framework for all digital assets other than Bitcoin.",
+      "url": "https://cointelegraph.com/news/el-salvador-passes-landmark-crypto-bill-paving-way-for-bitcoin-backed-bonds",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-01/bfd349df-f3d5-4dee-8068-be766ed6a961.jpg",
+      "publishedAt": "2023-01-12T02:03:08Z",
+      "content": "El Salvador has passed landmark legislation providing the legal framework for a Bitcoin-backed bond known as the Volcano Bond that will be used to pay down sovereign debt and fund the construction of… [+2952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Josh Eidelson and Matt Day",
+      "title": "Amazon Union’s NYC Victory Certified by Federal Labor Board - Yahoo Finance",
+      "description": "(Bloomberg) -- A federal regulator has certified an upstart union’s election victory last year at an Amazon.com Inc. facility in New York — a ruling that the...",
+      "url": "https://finance.yahoo.com/news/amazon-loses-bid-stop-certification-233737520.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iXKhJghIiBEsiAnqadCMYg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/2062cc10055bced66d4af530fbf1b6cf",
+      "publishedAt": "2023-01-12T01:41:00Z",
+      "content": "(Bloomberg) -- A federal regulator has certified an upstart unions election victory last year at an Amazon.com Inc. facility in New York a ruling that the company intends to keep fighting.\r\nMost Read… [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WCVB Boston"
+      },
+      "author": null,
+      "title": "Two $1 million Mega Millions prizes won in Massachusetts; jackpot continues to grow - WCVB Boston",
+      "description": "The new jackpot drawing on Friday night will be another milestone in the game, Mega Millions said in a statement early Wednesday.",
+      "url": "https://www.wcvb.com/article/2-dollar1-million-mega-millions-prizes-won-in-massachusetts-jackpot-continues-to-grow/42457771",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mega-millions-1540259850.png?crop=1.00xw:0.994xh;0,0&resize=1200:*",
+      "publishedAt": "2023-01-12T00:29:00Z",
+      "content": "NEWTON, Mass. —No one won the $1.1 billion jackpot in Tuesday's Mega Million drawing, but two tickets sold in Massachusetts were worth $1 million each.\r\nThe $1 million prizes were won on a quick-pick… [+2244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Krystal Hur",
+      "title": "Charts suggest the market could rally for the next couple of months, Jim Cramer says - CNBC",
+      "description": "“The charts, as interpreted by Larry Williams, suggest that the market could have a very nice run over the next couple of months,” Jim Cramer said.",
+      "url": "https://www.cnbc.com/2023/01/11/charts-suggest-the-market-could-rally-for-the-next-couple-months-jim-cramer-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107060539-1652391835772-220305_IMG_0726.jpg?v=1673480387&w=1920&h=1080",
+      "publishedAt": "2023-01-11T23:39:47Z",
+      "content": "CNBC's Jim Cramer on Wednesday said that the markets' recent gains could become a sustained rally.\r\n\"The charts, as interpreted by Larry Williams suggest that the market could have a very nice run ov… [+1012 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Laura Cooper, Heather Haddon",
+      "title": "Subway Explores Sale That Could Value Sandwich Chain at More Than $10 Billion - WSJ - The Wall Street Journal",
+      "description": "Biggest restaurant chain by U.S. locations is in the midst of a turnaround",
+      "url": "https://www.wsj.com/articles/subway-explores-sale-that-could-value-sandwich-chain-at-more-than-10-billion-11673480236",
+      "urlToImage": "https://images.wsj.net/im-702114/social",
+      "publishedAt": "2023-01-11T23:37:00Z",
+      "content": "Sandwich chain Subway has retained advisers to explore \r\na sale of the closely held company, according to people familiar with the situation.The process, which is in the early stages, is expected to … [+183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Stock futures are flat with all eyes on key inflation report - CNBC",
+      "description": "All eyes are on December's consumer price index reading with the consensus forecast calling for a slight easing in price pressures.",
+      "url": "https://www.cnbc.com/2023/01/11/stock-market-news-futures-open-to-close.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1673478081&w=1920&h=1080",
+      "publishedAt": "2023-01-11T23:29:00Z",
+      "content": "Stock futures were little changed in overnight trading Wednesday as investors awaited a key inflation report to assess the outlook for the Federal Reserve's rate-hiking campaign.\r\nFutures linked to t… [+1206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Information"
+      },
+      "author": "Jon Victor",
+      "title": "Alphabet Job Cuts Widen to Robotics Subsidiary - The Information",
+      "description": "Less than a month ago, Alphabet’s industrial robotics subsidiary Intrinsic said it acquired a team of people from a software development firm called Open Robotics. On Wednesday, Intrinsic went in the other direction by laying off 40 employees, a spokespersonc…",
+      "url": "https://www.theinformation.com/articles/alphabet-job-cuts-widen-to-robotics-subsidiary",
+      "urlToImage": "https://tii.imgix.net/production/articles/9544/82bea9b7-8dee-47ee-842b-2c66df9bf8a7.png?fm=jpg&auto=compress&w=1200&frame=0",
+      "publishedAt": "2023-01-11T23:29:00Z",
+      "content": "Less than a month ago, Alphabets industrial robotics subsidiary Intrinsic said it acquired a team of people from a software development firm called Open Robotics. On Wednesday, Intrinsic went in the … [+774 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Khristopher J. Brooks",
+      "title": "Egg prices have more than tripled in some states over the last year. Here's why. - CBS News",
+      "description": "Egg costs are soaring as Americans' eating habits change and as a deadly disease wipes out millions of birds.",
+      "url": "https://www.cbsnews.com/news/eggs-prices-2022-chicken-bird-flu-inflation/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/09/58051349-6c30-4799-92b3-b0f8da634b7b/thumbnail/1200x630/ee73ee83b26b5001ece582afc4454df5/gettyimages-1389850398.jpg",
+      "publishedAt": "2023-01-11T23:25:00Z",
+      "content": "The rising cost of eggs in the U.S. is denting household budgets. Americans in recent years have increased the number of eggs they consume while reducing their intake of beef and venison, according t… [+4616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Hamed Ahmadi",
+      "title": "Billionaire Philanthropist MacKenzie Scott Finalizes 2nd Divorce - HuffPost",
+      "description": "The split comes after Scott ended her first marriage with Amazon founder Jeff Bezos in 2019.",
+      "url": "https://www.huffpost.com/entry/mackenzie-scott-finalizes-second-divorce_n_63bf1bf2e4b0b2e1506d85aa",
+      "urlToImage": "https://img.huffingtonpost.com/asset/63bf1cf12100003000dce3df.jpeg?cache=Jp6bBxG8AZ&ops=1200_630",
+      "publishedAt": "2023-01-11T23:10:49Z",
+      "content": "MacKenzie Scott arrives at a Vanity Fair event in Beverly Hills, California, on March 4, 2018.\r\nBillionaire MacKenzie Scott is now officially divorced from Dan Jewett, marking the end of her second m… [+1524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Alexandra S. Levine",
+      "title": "JP Morgan Says Startup Founder Used Millions Of Fake Customers To Dupe It Into An Acquisition - Forbes",
+      "description": "JP Morgan is suing the founder of a Mark Rowan-backed startup it acquired, claiming the fintech, Frank, had sold the financial giant on a “lie.”",
+      "url": "https://www.forbes.com/sites/alexandralevine/2023/01/11/jp-morgan-fake-customers-frank-charlie-javice/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63bf1304380ff7645891ae76/0x0.jpg?format=jpg&width=1200",
+      "publishedAt": "2023-01-11T23:04:20Z",
+      "content": "JPMorgan Chase is suing the 30-year-old founder of Frank, a buzzy fintech startup it acquired for $175 million, for allegedly lying about its scale and success by creating an enormous list of fake us… [+8061 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "FTX collapse: Tom Brady, Robert Kraft among investors set to be wiped out in crypto exchange's bankruptcy - CBS Sports",
+      "description": "Brady and Kraft are among the high-profile investors whose FTX shares are expected to become virtually worthless",
+      "url": "https://www.cbssports.com/nfl/news/ftx-collapse-tom-brady-robert-kraft-among-investors-set-to-be-wiped-out-in-crypto-exchanges-bankruptcy/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/11/3e9156d7-62d7-4604-976c-3263b8f326e4/thumbnail/1200x675/3a0aa2db611f95ff338df31957e66d64/gettyimages-1246102277.jpg",
+      "publishedAt": "2023-01-11T22:44:00Z",
+      "content": "Tampa Bay Buccaneers quarterback Tom Brady and New England Patriots owner Robert Kraft are among a list of FTX equity owners who are set to see their investments in the cryptocurrency firm be complet… [+1440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Rohan Goswami, MacKenzie Sigalos",
+      "title": "Why the Winklevoss brothers are in a $900 million crypto faceoff with Barry Silbert - CNBC",
+      "description": "Digital Currency Group's Barry Silbert and Cameron Winklevoss have been engaged in a public war of words over the fate of $900 million.",
+      "url": "https://www.cnbc.com/2023/01/11/cameron-winklevoss-and-barry-silbert-are-in-a-bitter-battle-in-crypto.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106893742-1623155589747-gettyimages-1233274971-BITCOIN_2021.jpeg?v=1673476576&w=1920&h=1080",
+      "publishedAt": "2023-01-11T22:36:16Z",
+      "content": "Tyler Winklevoss, chief executive officer and co-founder of Gemini Trust Co., left, and Cameron Winklevoss, president and co-founder of Gemini Trust Co., speak during the Bitcoin 2021 conference in M… [+8288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Daniel Howley",
+      "title": "Global PC shipments collapsed 28% in Q4: Gartner - Yahoo Finance",
+      "description": "PC sales continue to decline, as Gartner reports worldwide shipments dropped a stunning 28% in Q4.",
+      "url": "https://finance.yahoo.com/news/global-pc-shipments-collapsed-28-in-q-4-gartner-223143837.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.CVvMa1_5x9O1vFdFtUbHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/97f315f0-91fc-11ed-b6ee-13373ca83842",
+      "publishedAt": "2023-01-11T22:31:43Z",
+      "content": "The pain in the PC industry is only getting worse, as sales continue to decline after explosive growth during the height of the pandemic. According to research firm Gartner, worldwide PC shipments de… [+2942 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt Egan",
+      "title": "BlackRock is cutting 500 jobs as Wall Street layoffs continue - CNN",
+      "description": "BlackRock, the world's largest asset manager, is cutting about 500 jobs following a period of rapid hiring.",
+      "url": "https://www.cnn.com/2023/01/11/investing/blackrock-layoffs/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230111142548-blackrock-offices-nyc.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-11T22:31:00Z",
+      "content": "BlackRock, the worlds largest asset manager, is cutting about 500 jobs following a period of rapid hiring.\r\nA spokesperson for BlackRock told CNN on Wednesday that the layoffs amount to less than 3% … [+1509 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Starbucks employees to go back to office 3 days a week - The Seattle Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvc3RhcmJ1Y2tzL3N0YXJidWNrcy1lbXBsb3llZXMtdG8tZ28tYmFjay10by1vZmZpY2UtdGhyZWUtZGF5cy1hLXdlZWsv0gFxaHR0cHM6Ly93d3cuc2VhdHRsZXRpbWVzLmNvbS9idXNpbmVzcy9zdGFyYnVja3Mvc3RhcmJ1Y2tzLWVtcGxveWVlcy10by1nby1iYWNrLXRvLW9mZmljZS10aHJlZS1kYXlzLWEtd2Vlay8_YW1wPTE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-01-11T22:17:43Z",
+      "content": null
+    }
+  ]
+}
