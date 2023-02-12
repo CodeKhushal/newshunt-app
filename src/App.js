@@ -15,7 +15,6 @@ export default class App extends Component {
         <Navbar />
         <News pageSize={6} apiKey={this.apiKey}/>
         <Footer/>
-        {/* <Transition/> */}
       </>
     )
   }

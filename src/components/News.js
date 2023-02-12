@@ -27,7 +27,7 @@ export default class News extends Component {
     handlePrevClick = async () => {
         console.log("Previous");
         this.setState({ loading: true })
-        let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=598cf2c7fca145fabef1e902cc736573&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${this.props.apiKey}&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
         let data = await fetch(url);
         let parseData = await data.json();
 
@@ -42,7 +42,7 @@ export default class News extends Component {
         console.log("Next");
         if (!(this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize))) {
             this.setState({ loading: true })
-            let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=598cf2c7fca145fabef1e902cc736573&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+            let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=${this.props.apiKey}&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
             let data = await fetch(url);
             let parseData = await data.json();
 
