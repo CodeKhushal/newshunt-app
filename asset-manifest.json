@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newshunt-app/static/css/main.bb8e11d2.css",
-    "main.js": "/newshunt-app/static/js/main.c5c8e661.js",
+    "main.js": "/newshunt-app/static/js/main.a1fc9463.js",
     "static/js/787.4c026eef.chunk.js": "/newshunt-app/static/js/787.4c026eef.chunk.js",
     "static/media/fa-solid-900.svg": "/newshunt-app/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/newshunt-app/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -23,11 +23,11 @@
     "static/media/arrow_left.svg": "/newshunt-app/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/newshunt-app/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.bb8e11d2.css.map": "/newshunt-app/static/css/main.bb8e11d2.css.map",
-    "main.c5c8e661.js.map": "/newshunt-app/static/js/main.c5c8e661.js.map",
+    "main.a1fc9463.js.map": "/newshunt-app/static/js/main.a1fc9463.js.map",
     "787.4c026eef.chunk.js.map": "/newshunt-app/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb8e11d2.css",
-    "static/js/main.c5c8e661.js"
+    "static/js/main.a1fc9463.js"
   ]
 }
