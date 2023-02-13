@@ -8,7 +8,7 @@ import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 
 export default class App extends Component {
-  apiKey = process.env.REACT_APP_NEWS_API
+  apiKey = "598cf2c7fca145fabef1e902cc736573"
   render() {
     return (
       <>
